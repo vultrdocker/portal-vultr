@@ -1,2 +1,0 @@
-chmod u+x RPC-Runner
-./RPC-Runner --address gunsVsqShTeEfdPeJyQreNfSKfHLm5gfFi3WWywazefsRusPS4LjKoMYLigqfsvRsqKo4kJEEjtPkGPF7xsLQMGq8YcsjUESKm

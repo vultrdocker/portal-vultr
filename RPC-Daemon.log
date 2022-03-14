@@ -444,3 +444,76 @@
 2022-Mar-14 09:30:00.029073 INFO    [Core] Block 33200 (5dbb92011831e88860be7ef28b06a227ef4e08449cf377a537781bf996429dea) added to main chain
 2022-Mar-14 09:30:01.701215 INFO    [Core] Block 33300 (c68b443280bd200e3cc94ed0e684555b19259d39d6b4100482f574b146685628) added to main chain
 2022-Mar-14 09:30:07.589204 INFO    [Core] Block 33400 (53f86de1fb6373878aaba365afd209568f5ba420035648d6b162ed68ecf9f722) added to main chain
+2022-Mar-14 09:37:24.158831 INFO    [daemon] 
+
+ 
+                           .===;========.__, 
+                           (/__)___________| 
+     L___________,--,--/ /-,-,-/ /-,   ________ 
+=====)o o o o ======== )) ____,===,___7_/_,_,_,_,'---,-, 
+     `--._,_,_,-,--,--'' (____| _ |___ oo ; ; ; ; ; ;_____ T| 
+              `-'--'-/_,-------| ) ___--,__,------._  __  |I| 
+                        ==----/    / )/--/_         `-._`-'I| 
+                       /=[  ]/     ` ==.- -             `-.L| 
+                      /==---/            - -  
+                      '-.__/              __7 
+
+ 2ACoin v2.1.4.145 ()
+ This software is distributed under the General Public License v3.0
+
+ Copyright 2018-2021, 2ACoin Developers
+
+ Additional Copyright(s) may apply, please see the included LICENSE file for more information.
+ If you did not receive a copy of the LICENSE, please visit:
+ https://github.com/2acoin/2acoin/blob/master/LICENSE
+
+
+2022-Mar-14 09:37:24.186683 INFO    [daemon] Program Working Directory: "/workspace/portal-vultr"
+2022-Mar-14 09:37:24.186872 INFO    [daemon] Loading Checkpoints for faster initial sync...
+2022-Mar-14 09:37:24.187012 INFO    [daemon] Loaded 217 default checkpoints
+2022-Mar-14 09:37:24.187105 INFO    [RocksDBWrapper] Opening DB in /root/.2ACoin/DB
+2022-Mar-14 09:37:28.460406 INFO    [RocksDBWrapper] DB opened in /root/.2ACoin/DB
+2022-Mar-14 09:37:28.461797 INFO    [daemon] Initializing core...
+2022-Mar-14 09:37:28.480069 INFO    [Core] DB has more blocks than blockchain storage, cutting from block index: 33417
+2022-Mar-14 09:37:28.481331 INFO    [Core] Cutting root segment from index 33417
+2022-Mar-14 09:37:28.620977 INFO    [daemon] Core initialized OK
+2022-Mar-14 09:37:28.626521 INFO    [daemon] Initializing p2p server...
+2022-Mar-14 09:37:28.686882 INFO    [node_server] Generated new peer ID: 5378728166009055931
+2022-Mar-14 09:37:28.686995 INFO    [node_server] Binding on 0.0.0.0:17890
+2022-Mar-14 09:37:28.687092 INFO    [node_server] Net service bound on 0.0.0.0:17890
+2022-Mar-14 09:37:28.687208 INFO    [node_server] Attempting to add IGD port mapping.
+2022-Mar-14 09:37:32.692010 INFO    [node_server] No IGD was found.
+2022-Mar-14 09:37:32.692154 INFO    [daemon] P2p server initialized OK
+2022-Mar-14 09:37:32.692226 INFO    [daemon] Starting core rpc server on address 127.0.0.1:17910
+2022-Mar-14 09:37:32.692478 INFO    [daemon] Starting p2p net loop...
+2022-Mar-14 09:37:32.692571 INFO    [node_server] Starting node_server
+2022-Mar-14 09:37:53.616764 INFO    [protocol] [95.179.141.4:17890 OUT] Your 2ACoin node is syncing with the network (2.67% complete) You are 1220013 blocks (1270 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:37:53.616949 INFO    [protocol] New Top Block Detected: 1253430
+2022-Mar-14 09:37:56.722604 INFO    [Core] Block 33500 (7850d464d7f9b3de660b6602e8481dbde8af3d2d76e3382ae67fb2f60a519f0d) added to main chain
+2022-Mar-14 09:37:58.891955 INFO    [Core] Block 33600 (157e7afaec7421d26b6a61e40f59dc7c855f1def4e64cd6b91a99c0b94f83d4e) added to main chain
+2022-Mar-14 09:38:02.095990 INFO    [Core] Block 33700 (595881054ba458fa287dd1a7d10e346dac9f233c6e1f206d4cd5c9cae5379041) added to main chain
+2022-Mar-14 09:38:04.012273 INFO    [Core] Block 33800 (2edac0b9186575ea008486792dc44ea213681ea30c045dbf1b720fbc0b06766f) added to main chain
+2022-Mar-14 09:38:04.194606 INFO    [protocol] [144.202.29.252:17890 OUT] Your 2ACoin node is syncing with the network (2.70% complete) You are 1219623 blocks (1270 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:38:05.915743 INFO    [Core] Block 33900 (3b6c9abebb713e5fbc6df619aa1d7efdc629e266b5986b17f9174ffb061321af) added to main chain
+2022-Mar-14 09:38:08.288077 INFO    [Core] Block 34000 (a8cd8ba892be3cf065aaa65407133298dcbd9a7146b5809ba8a5a0531d3f487d) added to main chain
+2022-Mar-14 09:38:10.313054 INFO    [Core] Block 34100 (068962242a7691f97b36e5ffb7bd2fbb88d42ccd49c06b12ee5e1612dc1e4c94) added to main chain
+2022-Mar-14 09:38:12.788975 INFO    [Core] Block 34200 (03acc0d178e1528d9c36aa63d413675e083f9d686547d469e0e5db5ef6f2b3df) added to main chain
+2022-Mar-14 09:38:14.496645 INFO    [protocol] [144.76.173.210:17890 OUT] Your 2ACoin node is syncing with the network (2.74% complete) You are 1219137 blocks (1269 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:38:14.520058 INFO    [Core] Block 34300 (c615fb1a88488c09cf2ffe59c43f1fa204411b8c19e8a11a8b4543eeaeaddc9d) added to main chain
+2022-Mar-14 09:38:16.418521 INFO    [Core] Block 34400 (96acaea58d119ea64fce637d111e0b0358b3ed4e9be303848b7dd5753e48fb31) added to main chain
+2022-Mar-14 09:38:18.712949 INFO    [Core] Block 34500 (7b3a2f841509244ad4ac74a6cbcdcb5b60d2b7047be31f5acfd4e68c57bec8e5) added to main chain
+2022-Mar-14 09:38:20.896564 INFO    [Core] Block 34600 (e8dff7884e86677570c834364b135714382183827cad9ba50321ed10d374761b) added to main chain
+2022-Mar-14 09:38:22.987373 INFO    [Core] Block 34700 (01529872df51e1864bc9bb65eefb5225d34f35448421aaaa93be5d7631667adb) added to main chain
+2022-Mar-14 09:38:24.910177 INFO    [Core] Block 34800 (baef79d2f50ed90773e7517c6b979ba06c1d951b7d3b9832ea8b93050a582a05) added to main chain
+2022-Mar-14 09:38:25.088723 INFO    [protocol] [207.148.6.195:17890 OUT] Your 2ACoin node is syncing with the network (2.78% complete) You are 1218613 blocks (1269 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:38:27.118085 INFO    [Core] Block 34900 (6072fc7fdf7ed470f22e87d02613a7ea9ea5f8df99d4d8c7ca6c1d1827f058b7) added to main chain
+2022-Mar-14 09:38:29.118477 INFO    [checkpoints] CHECKPOINT PASSED FOR INDEX 35000 81610d559594a2a8d9b87b0ef051a06a6e40a0cd2d88fc312e1cd1733de0b3d2
+2022-Mar-14 09:38:29.119728 INFO    [Core] Block 35000 (81610d559594a2a8d9b87b0ef051a06a6e40a0cd2d88fc312e1cd1733de0b3d2) added to main chain
+2022-Mar-14 09:38:33.406356 INFO    [Core] Block 35100 (706596d8baf355023f42c43ae71dbdbaa02e36e4c3eb8636dcab0b3c40637633) added to main chain
+2022-Mar-14 09:38:35.012707 INFO    [Core] Block 35200 (c4b3a62c8a2acde305aa95d4f18ee78adad2bd5869a24a5770874f985f971abb) added to main chain
+2022-Mar-14 09:38:37.255432 INFO    [Core] Block 35300 (664756398fe2602819e866c9b7732a5ab5ebbabc3a95e9d91e2e813d34785094) added to main chain
+2022-Mar-14 09:38:39.490335 INFO    [Core] Block 35400 (4637fa4b5103bbc572c53745189826830906f62960117cbede66e8f5c4ec12c0) added to main chain
+2022-Mar-14 09:38:40.376882 INFO    [protocol] [116.202.173.125:17890 OUT] Your 2ACoin node is syncing with the network (2.83% complete) You are 1218011 blocks (1268 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:38:41.602767 INFO    [Core] Block 35500 (b2df93eb19cfc767ebc4e7ffdff05f798dba72dfd98b16bb7baba35565e4011a) added to main chain
+2022-Mar-14 09:38:43.487385 INFO    [Core] Block 35600 (17e7c13b11018a894d738f5d546ea17865d8dc03d5517328e3b0f2901aacfdc2) added to main chain
+2022-Mar-14 09:38:45.701053 INFO    [Core] Block 35700 (d3dee2666527bc7f0a95a78cc0098d9c0236122df437b62d23d1ce6b863c9a7e) added to main chain

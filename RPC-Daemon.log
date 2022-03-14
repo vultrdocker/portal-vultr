@@ -517,3 +517,40 @@
 2022-Mar-14 09:38:41.602767 INFO    [Core] Block 35500 (b2df93eb19cfc767ebc4e7ffdff05f798dba72dfd98b16bb7baba35565e4011a) added to main chain
 2022-Mar-14 09:38:43.487385 INFO    [Core] Block 35600 (17e7c13b11018a894d738f5d546ea17865d8dc03d5517328e3b0f2901aacfdc2) added to main chain
 2022-Mar-14 09:38:45.701053 INFO    [Core] Block 35700 (d3dee2666527bc7f0a95a78cc0098d9c0236122df437b62d23d1ce6b863c9a7e) added to main chain
+2022-Mar-14 09:38:47.837490 INFO    [Core] Block 35800 (0841ac71a54a4cf3b3b8218cf65e67c4dbcb53b908a2be29766c1af1f453e2e4) added to main chain
+2022-Mar-14 09:38:50.062913 INFO    [Core] Block 35900 (397546938e91a39262fdd52425db2dd83afd318843a752d873f352a25f730631) added to main chain
+2022-Mar-14 09:38:51.050627 INFO    [protocol] [45.76.232.71:17890 OUT] Your 2ACoin node is syncing with the network (2.87% complete) You are 1217513 blocks (1268 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:38:52.737807 INFO    [Core] Block 36000 (69ad050333cb9d84fec0eebfdaefac251725cf1c5bb5d4463268378c8a46be66) added to main chain
+2022-Mar-14 09:38:55.099767 INFO    [Core] Block 36100 (c80be83a0b8a1242cd03b58ed05295f4565b960a9ec71915800a0193bea8840f) added to main chain
+2022-Mar-14 09:38:56.998450 INFO    [Core] Block 36200 (b4b27ed0f9b33dd6d19c5df0c34a6ce3cf470aae1d4b8e0da8a11ffd5bf009d3) added to main chain
+2022-Mar-14 09:38:59.390328 INFO    [Core] Block 36300 (40b0827352207149eeaf3cabf160e7a274a1dfe7b847fb559a72e2e5a9282e3f) added to main chain
+2022-Mar-14 09:39:01.700065 INFO    [protocol] [207.148.3.17:17890 OUT] Your 2ACoin node is syncing with the network (2.90% complete) You are 1217033 blocks (1267 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:39:01.719129 INFO    [Core] Block 36400 (da3848ae49875f2f1c75aa6f1dec88235df04d84729ace967d472d14d7b40c83) added to main chain
+2022-Mar-14 09:39:03.902984 INFO    [Core] Block 36500 (412d8340f6bc70406284c576cb5dfbfd56a5e44bece8e83b4795586bb3b7d854) added to main chain
+2022-Mar-14 09:39:06.484850 INFO    [Core] Block 36600 (929296f2533fa05680094a32ae8c25bfd31d88eac8ece3cd9f6d34ef2f0f183b) added to main chain
+2022-Mar-14 09:39:08.540379 INFO    [Core] Block 36700 (423d8444f3f9c94735768b2d458e1d92b480c8957af3d82d2da2f352379ba2b4) added to main chain
+2022-Mar-14 09:39:10.798195 INFO    [Core] Block 36800 (408b1c8524eb2f836897eeeb04f64f6cecd8fdc6ff3a2395dac9fdac53937eb6) added to main chain
+2022-Mar-14 09:39:13.053054 INFO    [Core] Block 36900 (e95ef9b39f9584066c50a6f12382455a1625feba457d26095e3236954f8540f3) added to main chain
+2022-Mar-14 09:39:15.334941 INFO    [Core] Block 37000 (737b0f4ca9e6af997a87d0e8a3f5a7d232b9f9d7527d9957f35f7ad8616f472d) added to main chain
+2022-Mar-14 09:39:17.303428 INFO    [Core] Block 37100 (d4811349429c9ff090b737ccad85770cfe7c78edff307c9bb2e5d422caa4fca4) added to main chain
+2022-Mar-14 09:39:17.487923 INFO    [protocol] [108.61.205.5:17890 OUT] Your 2ACoin node is syncing with the network (2.96% complete) You are 1216314 blocks (1266 days) behind the current peer you're connected to. Please be patient! 
+2022-Mar-14 09:39:19.766974 INFO    [Core] Block 37200 (bf2d680b95fa8613aff44c71b6d1e0557aeebd115c745091e053048e4945952f) added to main chain
+2022-Mar-14 09:39:22.029685 INFO    [Core] Block 37300 (543f826565cb4d04dc5fe777e670695bbea3c11e0737d64b5d64a5d9554b64f3) added to main chain
+2022-Mar-14 09:39:24.350193 INFO    [Core] Block 37400 (719ef76ba476d136a8c45814cd03da4a8790f9a253a9735babf1b27d9c50fe9f) added to main chain
+2022-Mar-14 09:39:26.526170 INFO    [Core] Block 37500 (3740da849ce1119c864cbe4f38d10b48894b300a7154f0e978d3071699b66f8d) added to main chain
+2022-Mar-14 09:39:28.721277 INFO    [Core] Block 37600 (90021ce2eed5cc624905b5591f394f29f3ae433ee4bdca438974bf569b0e2de1) added to main chain
+2022-Mar-14 09:39:30.926517 INFO    [Core] Block 37700 (904e115bd8149a2761517688b42e65a7a7507e1b7491756589e51be43268d8c0) added to main chain
+2022-Mar-14 09:39:33.016030 INFO    [Core] Block 37800 (24fb8103d5c1cf18d0f9d64b20ad4311a8814c72dd3b6132781c025f5dfb7436) added to main chain
+2022-Mar-14 09:39:34.815891 INFO    [Core] Block 37900 (34280c8afb9cfde9ba16735cc06649b751c69a7e7b9ce7e736bfcf0b07bd05ba) added to main chain
+2022-Mar-14 09:39:36.800795 INFO    [Core] Block 38000 (0c5bd70ce99525bdb16006fde7d525eaba6e73bf43a529ba55d053a0c5c6072c) added to main chain
+2022-Mar-14 09:39:38.495134 INFO    [Core] Block 38100 (062fcaecdb2eca2ed879ea7c3ded8252a8a262ff36cbccda738b3a5f5f722359) added to main chain
+2022-Mar-14 09:39:40.493607 INFO    [Core] Block 38200 (690f97e3d0daf81bfb189553d283b235ba600c3af146222062fba3d693e72c44) added to main chain
+2022-Mar-14 09:39:42.506212 INFO    [Core] Block 38300 (4d5778ed90a7e6198014f9cb8dd4c1bb689cfcc1e838f7ad3724dd079ef69e4f) added to main chain
+2022-Mar-14 09:39:44.397842 INFO    [Core] Block 38400 (a340fcceaed5a71eaa8be8d183ec94629d4729d819d91fce51c4480fe26b9149) added to main chain
+2022-Mar-14 09:39:46.113839 INFO    [Core] Block 38500 (99d85bd80dc9644c893e878b5345183ff79bf5b2236234edad9a6be45d1be0dc) added to main chain
+2022-Mar-14 09:39:48.398422 INFO    [Core] Block 38600 (5e447d027e94d5481546f516c25c734d54574a151ffc88999648cbddf1be0586) added to main chain
+2022-Mar-14 09:39:50.287550 INFO    [Core] Block 38700 (86996eb87e73bcb8e39bfdc15e2f38c3d16ef6dacf41457531abe5ebd5b1052a) added to main chain
+2022-Mar-14 09:39:52.793350 INFO    [Core] Block 38800 (4c45aae2a3f05142cd411d23017ed77c19a3dd7209a95bd4bdd85b36c67091cd) added to main chain
+2022-Mar-14 09:39:54.410190 INFO    [Core] Block 38900 (5b70e643cbfa8288298a3b0c6e545224ab28da1b789e6a90d77dc0354ee632ec) added to main chain
+2022-Mar-14 09:39:56.590126 INFO    [Core] Block 39000 (21f44022e7b092e919bcf37bbfa2f4469cecd014c665f1a38610e5b93cacfb64) added to main chain
+2022-Mar-14 09:39:58.886797 INFO    [Core] Block 39100 (e82201931b0255803b11108fbf2760213a1245b36e21a34e16e32e1bc2ee6873) added to main chain

